@@ -1,1 +1,0 @@
-Le immagini originali mantengono nomi e percorsi. Il sito usa le copie .webp dove piu leggere, con compressione senza perdita. Per sostituire una foto aggiorna il percorso nel file HTML e negli eventuali data-image, data-cover e data-preview-images. I video mantengono audio e qualita originali. Carica tutta la cartella Website, inclusi i nuovi file WebP.
