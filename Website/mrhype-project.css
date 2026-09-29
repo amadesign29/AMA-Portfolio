@@ -1,0 +1,12 @@
+/* MrHype: stesse spaziature di SanTarallo, senza alterare il CSS condiviso. */
+body.mrhype .ux-intro { min-height: 0; }
+body.mrhype .ux-statement { margin-top: 80px; margin-bottom: 60px; }
+body.mrhype .ux-question-row { margin-top: 64px; }
+body.mrhype .ux-story { padding-bottom: 64px; }
+body.mrhype .ux-question { font-size: clamp(24px,2.3vw,34px); }
+@media(max-width:760px) {
+ body.mrhype .ux-statement { margin: 52px 0 45px; max-width: 100%; }
+ body.mrhype .ux-question-row { margin-top: 40px; }
+ body.mrhype .ux-figure figcaption { gap: 12px; font-size: 12px; }
+ body.mrhype .ux-figure figcaption > span:last-child { max-width: 60%; }
+}

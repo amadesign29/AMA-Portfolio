@@ -1,0 +1,54 @@
+/* Solo Branding. Tipografia e struttura di base provengono da ux-project.css. */
+body.branding-project .branding-section-intro h2 {
+  font: inherit;
+  font-size: clamp(24px, 2.5vw, 38px);
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: -.035em;
+  color: var(--project-accent);
+  margin: 0 0 25px;
+}
+body.branding-project .branding-section-intro { max-width: 850px; padding-bottom: 48px; }
+body.branding-project .branding-section-intro p {
+  font-size: clamp(22px, 2.15vw, 34px);
+  line-height: 1.65; letter-spacing: -.035em; color: var(--ux-secondary); margin: 0;
+}
+body.branding-project .branding-chapter { padding-bottom: 50px; }
+body.branding-project .ux-columns > *,
+body.branding-project .ux-question-row > * { min-width: 0; }
+body.branding-project .ux-facts dd { overflow-wrap: anywhere; line-height: 1.5; }
+/* Loghi, tavole e mockup mantengono il formato originale, senza ritagli. */
+body.branding-project .ux-media:has(> img) {
+  display: block; aspect-ratio: auto; height: auto; background: transparent; border: 0;
+}
+body.branding-project .ux-media > img {
+  display: block; width: 100%; height: auto; object-fit: contain; border-radius: 0;
+}
+@media (max-width: 760px) {
+  body.branding-project .branding-section-intro { padding-bottom: 30px; }
+  body.branding-project .branding-section-intro p { font-size: 23px; line-height: 1.55; }
+  body.branding-project .branding-chapter { padding-bottom: 25px; }
+}
+
+/* SanTarallo: local spacing and presentation only. */
+body.santarallo .ux-intro { min-height: 0; }
+body.santarallo .ux-statement { margin-top: 80px; margin-bottom: 60px; }
+body.santarallo .ux-question-row { margin-top: 64px; }
+body.santarallo .ux-story { padding-bottom: 64px; }
+body.santarallo .ux-question { font-size: clamp(24px,2.3vw,34px); }
+body.santarallo .st-boxes img { filter: brightness(1.16); }
+.st-palette { display: grid; grid-template-columns: 30.47% 69.53%; aspect-ratio: 16 / 9; background: white; }
+.st-swatches { display: grid; grid-template-rows: 1fr 1fr; }
+.st-swatches > div { display: flex; align-items: end; padding: 10%; font: clamp(14px,2vw,28px)/1.4 'Courier New',monospace; }
+.st-green { background: #124734; color: white; }
+.st-gold { background: #C9A327; color: #18231b; }
+.st-type { background: white url('assets/SanTarallo/palette-original.webp') right center / 143.82% 100% no-repeat; }
+@media(max-width:760px) {
+ body.santarallo .ux-statement { margin: 52px 0 45px; max-width: 100%; }
+ body.santarallo .ux-question-row { margin-top: 40px; }
+ body.santarallo .ux-figure figcaption { gap: 12px; font-size: 12px; }
+ body.santarallo .ux-figure figcaption > span:last-child { max-width: 60%; }
+ .st-palette { aspect-ratio: auto; grid-template-columns: 1fr; }
+ .st-swatches { grid-template-columns: 1fr 1fr; grid-template-rows: 100px; }
+ .st-type { aspect-ratio: 1424 / 1152; }
+}

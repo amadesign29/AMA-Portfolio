@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Progetto Graphic Design 01 — A.M.Amoroso</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="translations.js" defer></script>
+  <script src="site-translations.js" defer></script>
+<script src="i18n.js" defer></script>
+  <script src="script.js" defer></script>
+<link rel="stylesheet" href="site-final.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="header page-width">
+    <a class="wordmark" href="index.html">A.M.Amoroso</a>
+    <nav aria-label="Main navigation"><a href="index.html#projects">projects</a><a href="index.html#about">about</a><a href="index.html#contact">contact</a></nav><div class="language-switch" role="group" aria-label="Language"><button type="button" data-language="it" lang="it" aria-label="Italian" aria-pressed="false">it</button><span aria-hidden="true">/</span><button type="button" data-language="en" lang="en" aria-label="English" aria-pressed="true">en</button></div>
+  </header>
+  <main id="main" class="page-width inner-main">
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="index.html#projects">Projects</a><span aria-hidden="true">/</span><a href="graphic-design.html">Graphic Design</a></nav>
+    <header class="inner-heading"><p class="eyebrow">Graphic Design / 01</p><h1>Progetto Graphic Design 01</h1><p class="draft-note">Bozza — contenuti del progetto da completare.</p></header>
+    <div
+  class="list-cover"
+  data-image="assets/neodip/cover.png"
+  data-alt="Neodip project cover"
+  data-preview-images="assets/neodip/01.png, assets/neodip/02.png, assets/neodip/03.png"
+>
+  <span aria-hidden="true">01</span>
+</div>
+    <section class="case-section" aria-labelledby="overview"><h2 id="overview">Overview</h2><div><p>Descrizione del progetto da inserire: contesto, obiettivo e il tuo ruolo.</p><!-- Replace this paragraph with your project content. --></div></section>
+    <section class="case-section" aria-labelledby="process"><h2 id="process">Process</h2><div><p>Racconta qui le fasi del lavoro e le scelte progettuali. Puoi aggiungere immagini, schizzi e prototipi.</p><!-- Replace this paragraph with your project content. --></div></section>
+    <section class="case-section" aria-labelledby="outcome"><h2 id="outcome">Outcome</h2><div><p>Presenta qui il risultato finale e ciò che hai imparato dal progetto.</p><!-- Replace this paragraph with your project content. --></div></section>
+    <nav class="case-navigation" aria-label="Project navigation"><a href="graphic-design.html">← Back to Graphic Design</a><a href="project-graphic-02.html">Next: Progetto Graphic Design 02 ↗</a></nav>
+  </main>
+  <footer class="footer page-width"><span>© <span id="year">2026</span> A.M.Amoroso</span><a href="index.html#projects">All disciplines ↗</a></footer>
+ <div class="custom-cursor" aria-hidden="true">
+  <img src="assets/Cursor.svg" alt="" width="38" height="38">
+</div>
+
+</body>
+</html>

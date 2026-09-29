@@ -1,0 +1,58 @@
+/* Solo pagine SSD: il layout condiviso resta quello UI/UX. */
+.ssd-project { --ssd-accent: #9bd241; }
+.ssd-project .ux-columns h2,
+.ssd-project .ssd-process h2 {
+  color: var(--ssd-accent); font: inherit; font-size: clamp(24px, 2.5vw, 38px);
+  letter-spacing: -.035em; margin: 0 0 25px;
+}
+.ssd-project .ux-columns p,
+.ssd-project .ssd-description {
+  font-size: clamp(20px, 1.65vw, 27px); line-height: 1.65;
+  color: var(--ux-secondary); letter-spacing: -.025em;
+}
+.ssd-project .ssd-context {
+  display: grid; grid-template-columns: minmax(0, 2.5fr) minmax(0, 1fr);
+  gap: 12.5%; margin-top: 140px;
+}
+.ssd-project .ssd-process, .ssd-project .ux-facts { min-width: 0; }
+.ssd-project .ssd-process-figure { width: 65%; margin: 50px 0 0; }
+.ssd-project .ssd-process-figure .ux-media { aspect-ratio: 1.4; }
+.ssd-project .ux-facts dt, .ssd-project .ux-facts dd { color: var(--ssd-accent); }
+.ssd-project .ux-facts dd { line-height: 1.65; overflow-wrap: anywhere; }
+.ssd-project .ux-facts > div { padding-bottom: 55px; }
+.ssd-project .ssd-chapter { margin-bottom: 80px; }
+.ssd-project .ssd-chapter .ux-rule { margin-bottom: 22px; }
+/* Diagrammi e immagini interni completi, senza tagli e senza mirini. */
+.ssd-project .ux-media:has(> img) { aspect-ratio: auto; display: block; background: transparent; }
+.ssd-project .ux-media > img { width: 100%; height: auto; object-fit: contain; border-radius: 0; }
+.ssd-project .ux-placeholder:has(> img) { border: 0; }
+@media (max-width: 760px) {
+  .ssd-project .ssd-context { grid-template-columns: 1fr; gap: 35px; margin-top: 65px; }
+  .ssd-project .ssd-process-figure { width: 100%; margin-top: 30px; }
+  .ssd-project .ux-facts { grid-template-columns: 1fr; gap: 0; }
+  .ssd-project .ux-facts > div { padding-bottom: 24px; }
+  .ssd-project .ssd-chapter { margin-bottom: 35px; }
+}
+.blueprint-link {
+  display: inline-block;
+  margin: 6px 0 18px;
+  padding: 8px 0;
+  color: inherit;
+  font-size: 16px;
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  transition: color 200ms ease;
+}
+
+.blueprint-link:hover,
+.blueprint-link:focus-visible {
+  color: #08CFC8;
+}
+
+/* Allinea il link alla didascalia accanto */
+.ux-project .ux-figure figcaption .blueprint-link {
+  margin: 0;
+  padding: 0 0 8px;
+  font: inherit;
+  vertical-align: top;
+}
