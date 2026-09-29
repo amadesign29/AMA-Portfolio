@@ -4,13 +4,13 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "A little about me",
     "it": "Qualcosa su di me"
   },
-  "All disciplines ↗": {
-    "en": "All disciplines ↗",
-    "it": "Tutte le discipline ↗"
+  "All disciplines ↗︎": {
+    "en": "All disciplines ↗︎",
+    "it": "Tutte le discipline ↗︎"
   },
-  "Back to top ↑": {
-    "en": "Back to top ↑",
-    "it": "Torna in alto ↑"
+  "Back to top ↑︎": {
+    "en": "Back to top ↑︎",
+    "it": "Torna in alto ↑︎"
   },
   "Different disciplines.": {
     "en": "Different disciplines.",
@@ -60,9 +60,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Identities with character.",
     "it": "Identità con carattere."
   },
-  "Let's talk ↗": {
-    "en": "Let's talk ↗",
-    "it": "Parliamone ↗"
+  "Let's talk ↗︎": {
+    "en": "Let's talk ↗︎",
+    "it": "Parliamone ↗︎"
   },
   "Overview": {
     "en": "Overview",
@@ -96,9 +96,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "contact",
     "it": "contatti"
   },
-  "Scroll to explore ↓": {
-    "en": "Scroll to explore ↓",
-    "it": "Scorri per esplorare ↓"
+  "Scroll to explore ↓︎": {
+    "en": "Scroll to explore ↓︎",
+    "it": "Scorri per esplorare ↓︎"
   },
   "Selected projects / 02": {
     "en": "Selected projects / 02",
@@ -112,9 +112,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Skip to projects",
     "it": "Vai ai progetti"
   },
-  "View project ↗": {
-    "en": "View project ↗",
-    "it": "Apri il progetto ↗"
+  "View project ↗︎": {
+    "en": "View project ↗︎",
+    "it": "Apri il progetto ↗︎"
   },
   "Visual storytelling.": {
     "en": "Visual storytelling.",
@@ -140,9 +140,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "service thinking",
     "it": "progettazione dei servizi"
   },
-  "← All disciplines": {
-    "en": "← All disciplines",
-    "it": "← Tutte le discipline"
+  "←︎ All disciplines": {
+    "en": "←︎ All disciplines",
+    "it": "←︎ Tutte le discipline"
   },
   "Main navigation": {
     "en": "Main navigation",
@@ -200,9 +200,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Carepath — A.M.Amoroso",
     "it": "Carepath — A.M.Amoroso"
   },
-  "Next: Carepath ↗": {
-    "en": "Next: Carepath ↗",
-    "it": "Successivo: Carepath ↗"
+  "Next: Carepath ↗︎": {
+    "en": "Next: Carepath ↗︎",
+    "it": "Successivo: Carepath ↗︎"
   },
   "Carepath project cover": {
     "en": "Carepath project cover",
@@ -216,9 +216,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "IKEA — Rethinking loyalty — A.M.Amoroso",
     "it": "IKEA — Ripensare la fidelizzazione — A.M.Amoroso"
   },
-  "Next: IKEA — Rethinking loyalty ↗": {
-    "en": "Next: IKEA — Rethinking loyalty ↗",
-    "it": "Successivo: IKEA — Ripensare la fidelizzazione ↗"
+  "Next: IKEA — Rethinking loyalty ↗︎": {
+    "en": "Next: IKEA — Rethinking loyalty ↗︎",
+    "it": "Successivo: IKEA — Ripensare la fidelizzazione ↗︎"
   },
   "IKEA — Rethinking loyalty project cover": {
     "en": "IKEA — Rethinking loyalty project cover",
@@ -232,9 +232,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "UI/UX project 02 — A.M.Amoroso",
     "it": "Progetto UI/UX 02 — A.M.Amoroso"
   },
-  "Next: Progetto UI/UX 02 ↗": {
-    "en": "Next: UI/UX project 02 ↗",
-    "it": "Successivo: Progetto UI/UX 02 ↗"
+  "Next: Progetto UI/UX 02 ↗︎": {
+    "en": "Next: UI/UX project 02 ↗︎",
+    "it": "Successivo: Progetto UI/UX 02 ↗︎"
   },
   "Progetto UI/UX 02 project cover": {
     "en": "UI/UX project 02 project cover",
@@ -248,9 +248,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Service Design project 02 — A.M.Amoroso",
     "it": "Progetto Design dei servizi 02 — A.M.Amoroso"
   },
-  "Next: Progetto Service Design 02 ↗": {
-    "en": "Next: Service Design project 02 ↗",
-    "it": "Successivo: Progetto Design dei servizi 02 ↗"
+  "Next: Progetto Service Design 02 ↗︎": {
+    "en": "Next: Service Design project 02 ↗︎",
+    "it": "Successivo: Progetto Design dei servizi 02 ↗︎"
   },
   "Progetto Service Design 02 project cover": {
     "en": "Service Design project 02 project cover",
@@ -264,9 +264,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Graphic Design project 01 — A.M.Amoroso",
     "it": "Progetto Design grafico 01 — A.M.Amoroso"
   },
-  "Next: Progetto Graphic Design 01 ↗": {
-    "en": "Next: Graphic Design project 01 ↗",
-    "it": "Successivo: Progetto Design grafico 01 ↗"
+  "Next: Progetto Graphic Design 01 ↗︎": {
+    "en": "Next: Graphic Design project 01 ↗︎",
+    "it": "Successivo: Progetto Design grafico 01 ↗︎"
   },
   "Progetto Graphic Design 01 project cover": {
     "en": "Graphic Design project 01 project cover",
@@ -280,9 +280,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Graphic Design project 02 — A.M.Amoroso",
     "it": "Progetto Design grafico 02 — A.M.Amoroso"
   },
-  "Next: Progetto Graphic Design 02 ↗": {
-    "en": "Next: Graphic Design project 02 ↗",
-    "it": "Successivo: Progetto Design grafico 02 ↗"
+  "Next: Progetto Graphic Design 02 ↗︎": {
+    "en": "Next: Graphic Design project 02 ↗︎",
+    "it": "Successivo: Progetto Design grafico 02 ↗︎"
   },
   "Progetto Graphic Design 02 project cover": {
     "en": "Graphic Design project 02 project cover",
@@ -296,9 +296,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Branding project 01 — A.M.Amoroso",
     "it": "Progetto Branding 01 — A.M.Amoroso"
   },
-  "Next: Progetto Branding 01 ↗": {
-    "en": "Next: Branding project 01 ↗",
-    "it": "Successivo: Progetto Branding 01 ↗"
+  "Next: Progetto Branding 01 ↗︎": {
+    "en": "Next: Branding project 01 ↗︎",
+    "it": "Successivo: Progetto Branding 01 ↗︎"
   },
   "Progetto Branding 01 project cover": {
     "en": "Branding project 01 project cover",
@@ -312,9 +312,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Branding project 02 — A.M.Amoroso",
     "it": "Progetto Branding 02 — A.M.Amoroso"
   },
-  "Next: Progetto Branding 02 ↗": {
-    "en": "Next: Branding project 02 ↗",
-    "it": "Successivo: Progetto Branding 02 ↗"
+  "Next: Progetto Branding 02 ↗︎": {
+    "en": "Next: Branding project 02 ↗︎",
+    "it": "Successivo: Progetto Branding 02 ↗︎"
   },
   "Progetto Branding 02 project cover": {
     "en": "Branding project 02 project cover",
@@ -328,9 +328,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "UI/UX — A.M.Amoroso",
     "it": "UI/UX — A.M.Amoroso"
   },
-  "← Back to UI/UX": {
-    "en": "← Back to UI/UX",
-    "it": "← Torna a UI/UX"
+  "←︎ Back to UI/UX": {
+    "en": "←︎ Back to UI/UX",
+    "it": "←︎ Torna a UI/UX"
   },
   "Explore UI/UX projects": {
     "en": "Explore UI/UX projects",
@@ -356,9 +356,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Service Systems Design — A.M.Amoroso",
     "it": "Design dei sistemi di servizi — A.M.Amoroso"
   },
-  "← Back to Service Systems Design": {
-    "en": "← Back to Service Systems Design",
-    "it": "← Torna a Design dei sistemi di servizi"
+  "←︎ Back to Service Systems Design": {
+    "en": "←︎ Back to Service Systems Design",
+    "it": "←︎ Torna a Design dei sistemi di servizi"
   },
   "Explore Service Systems Design projects": {
     "en": "Explore Service Systems Design projects",
@@ -384,9 +384,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Graphic Design — A.M.Amoroso",
     "it": "Design grafico — A.M.Amoroso"
   },
-  "← Back to Graphic Design": {
-    "en": "← Back to Graphic Design",
-    "it": "← Torna a Design grafico"
+  "←︎ Back to Graphic Design": {
+    "en": "←︎ Back to Graphic Design",
+    "it": "←︎ Torna a Design grafico"
   },
   "Explore Graphic Design projects": {
     "en": "Explore Graphic Design projects",
@@ -412,9 +412,9 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Branding — A.M.Amoroso",
     "it": "Branding — A.M.Amoroso"
   },
-  "← Back to Branding": {
-    "en": "← Back to Branding",
-    "it": "← Torna a Branding"
+  "←︎ Back to Branding": {
+    "en": "←︎ Back to Branding",
+    "it": "←︎ Torna a Branding"
   },
   "Explore Branding projects": {
     "en": "Explore Branding projects",
@@ -432,21 +432,21 @@ window.PORTFOLIO_TRANSLATIONS = {
     "en": "Branding / 02",
     "it": "Branding / 02"
   },
-  "Explore projects ↗ / 01": {
-    "en": "Explore projects ↗ / 01",
-    "it": "Esplora i progetti ↗ / 01"
+  "Explore projects ↗︎ / 01": {
+    "en": "Explore projects ↗︎ / 01",
+    "it": "Esplora i progetti ↗︎ / 01"
   },
-  "Explore projects ↗ / 02": {
-    "en": "Explore projects ↗ / 02",
-    "it": "Esplora i progetti ↗ / 02"
+  "Explore projects ↗︎ / 02": {
+    "en": "Explore projects ↗︎ / 02",
+    "it": "Esplora i progetti ↗︎ / 02"
   },
-  "Explore projects ↗ / 03": {
-    "en": "Explore projects ↗ / 03",
-    "it": "Esplora i progetti ↗ / 03"
+  "Explore projects ↗︎ / 03": {
+    "en": "Explore projects ↗︎ / 03",
+    "it": "Esplora i progetti ↗︎ / 03"
   },
-  "Explore projects ↗ / 04": {
-    "en": "Explore projects ↗ / 04",
-    "it": "Esplora i progetti ↗ / 04"
+  "Explore projects ↗︎ / 04": {
+    "en": "Explore projects ↗︎ / 04",
+    "it": "Esplora i progetti ↗︎ / 04"
   },
   "A.M.Amoroso": {
     "en": "A.M.Amoroso",

@@ -80,9 +80,9 @@ Object.assign(window.PORTFOLIO_TRANSLATIONS, {
     "en": "Service Design project 03",
     "it": "Progetto Service Design 03"
   },
-  "← Back to Service Systems Design": {
-    "en": "← Back to Service Systems Design",
-    "it": "← Torna a Service Systems Design"
+  "←︎ Back to Service Systems Design": {
+    "en": "←︎ Back to Service Systems Design",
+    "it": "←︎ Torna a Service Systems Design"
   },
   "A life-centered loyalty system connecting people, communities, and nature.": {
     "en": "A life-centered loyalty system connecting people, communities, and nature.",

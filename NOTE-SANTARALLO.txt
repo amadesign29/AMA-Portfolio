@@ -1,0 +1,15 @@
+SanTarallo — aggiornamento pagina branding
+
+Aprire project-branding-01.html oppure scegliere SanTarallo da branding.html.
+Le immagini sono in assets/SanTarallo, formato WebP, 2000 x 1125 px.
+Il rapporto originale 16:9 è conservato. I file originali non sono stati alterati.
+La luminosità delle scatole è corretta solo in visualizzazione tramite CSS.
+La tavola colori combina campioni HTML con il campione Baramond originale.
+
+Anno e software sono omessi perché non ancora confermati.
+Ruolo inserito: Brand design. Integrare eventuali collaboratori e crediti.
+Gamification non inclusa: da documentare e distinguere tra proposta e realizzazione.
+Testi e didascalie disponibili in inglese e italiano.
+
+Modifiche limitate a project-branding-01.html, branding.html,
+branding-project.css, branding-translations.js e nuovi assets/SanTarallo.

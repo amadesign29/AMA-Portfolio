@@ -1,0 +1,11 @@
+Portfolio aggiornato — 28 settembre 2026
+
+Apri index.html oppure carica il contenuto della cartella Website sul tuo hosting statico.
+Graphic Design è una pagina unica: eventi, Decathlon (video con audio e controlli), MACROMONDO.
+About: biografia dal CV, immagine illustrativa AI discreta e link e-mail aggiornato.
+site-final.css contiene la scala tipografica comune. site-translations.js completa il dizionario IT/EN.
+Le scritte incorporate nelle immagini e nel video restano nella lingua originale.
+Il terzo progetto SSD è ancora una bozza: conservato in project-service-03.html, escluso dalla lista pubblica e dall’indicizzazione.
+Le vecchie pagine Graphic Design rimandano alla nuova galleria; copie dei modelli sono in drafts come file di testo.
+Nessuna pubblicazione è stata eseguita. Non sono stati aggiunti analytics o moduli che richiedono servizi esterni.
+Verificati percorsi, immagini, HTML, sintassi JavaScript, copertura dei testi nel dizionario e integrità ZIP. Anteprima reale su browser desktop/mobile non eseguita: il browser di test non è disponibile in questo ambiente.

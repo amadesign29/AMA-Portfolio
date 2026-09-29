@@ -80,8 +80,8 @@ Object.assign(window.PORTFOLIO_TRANSLATIONS, {
     "en": "Back to UI/UX",
     "it": "Torna a UI/UX"
   },
-  "Back to top ↑": {
-    "en": "Back to top ↑",
-    "it": "Torna in alto ↑"
+  "Back to top ↑︎": {
+    "en": "Back to top ↑︎",
+    "it": "Torna in alto ↑︎"
   }
 });

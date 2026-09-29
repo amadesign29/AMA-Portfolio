@@ -60,9 +60,9 @@ Object.assign(window.PORTFOLIO_TRANSLATIONS, {
     "en": "Project in progress",
     "it": "Progetto in preparazione"
   },
-  "← Back to Branding": {
-    "en": "← Back to Branding",
-    "it": "← Torna a Branding"
+  "←︎ Back to Branding": {
+    "en": "←︎ Back to Branding",
+    "it": "←︎ Torna a Branding"
   },
   "Project overview": {
     "en": "Project overview",

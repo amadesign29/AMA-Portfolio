@@ -1,0 +1,38 @@
+PROGETTI SERVICE SYSTEMS DESIGN
+
+Apri service-systems-design.html per vedere i tre progetti:
+1. project-ikea.html
+2. project-service-02.html
+3. project-service-03.html
+
+Le pagine riprendono UI/UX: header, griglia, tipografia, cursore e schede Vedi anche.
+Campi dal video: introduzione, copertina, Problema, Soluzione, contesto con foto del processo, Anno, Strumenti, Categoria, quattro sezioni visive 01–04 e Vedi anche.
+I testi IKEA presenti sono ripresi/parafrasati dalla reference. Il contesto introduttivo e le immagini restano da completare. Gli altri due progetti sono modelli da compilare.
+
+COME INSERIRE LE IMMAGINI
+Crea per esempio assets/ikea e inserisci cover.jpg, ricerca.jpg, blueprint.png, servizio.jpg, dettaglio.jpg, community.jpg.
+Nella pagina del progetto cerca data-image="" e inserisci il percorso:
+data-image="assets/ikea/cover.jpg"
+Aggiorna data-alt con una descrizione e la didascalia in figcaption.
+Il riquadro provvisorio scompare quando l'immagine viene caricata.
+Le immagini interne mantengono le proporzioni originali, anche su mobile: blueprint e diagrammi non vengono ritagliati.
+
+ELENCO E SLIDER
+In service-systems-design.html cambia data-image con la copertina del singolo progetto.
+In data-preview-images scrivi le altre foto separate da virgole:
+data-preview-images="assets/ikea/servizio.jpg, assets/ikea/dettaglio.jpg, assets/ikea/community.jpg"
+Lo zoom e lo slide sono quelli già presenti nel sito. La grafica SSD attuale è una copertina provvisoria comune.
+Aggiorna anche la miniatura nei Vedi anche delle pagine SSD.
+
+TESTI
+Modifica i testi nei tre HTML, compresi title, h1, didascalie e valori nei dd.
+I nomi vanno aggiornati anche nell'elenco e nei Vedi anche.
+ssd-translations.js contiene le traduzioni SSD: quando cambi una frase aggiorna la chiave e i valori en/it.
+I nuovi testi non si traducono automaticamente senza una voce nel dizionario.
+
+STILE
+ssd-project.css riguarda solo SSD. ux-project.css e style.css sono conservati.
+Per cambiare il verde dei titoli SSD modifica --ssd-accent in ssd-project.css.
+
+APERTURA
+Estrai tutto lo ZIP in una nuova cartella. Apri index.html da quella cartella e scegli Service Systems Design.

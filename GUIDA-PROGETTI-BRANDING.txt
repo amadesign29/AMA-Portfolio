@@ -1,0 +1,55 @@
+BRANDING — GUIDA ALLA PERSONALIZZAZIONE
+
+FILE
+branding.html: elenco dei due progetti.
+project-branding-01.html e project-branding-02.html: pagine complete da compilare.
+branding-project.css: regole specifiche Branding.
+branding-translations.js: traduzioni delle nuove etichette e dei testi provvisori.
+ux-project.css: stile condiviso con UI/UX e SSD, lasciato invariato.
+
+STRUTTURA
+Introduzione e copertina.
+Brief: brand, pubblico, obiettivo della nuova identità.
+Creative direction: personalità, tono, riferimenti e direzione visiva.
+Brand concept: idea alla base del linguaggio visivo.
+Year / My role / Tools / Deliverables: dati sintetici del lavoro.
+Visual identity: logo e varianti, colori, tipografia ed elementi grafici.
+Applications: mockup, supporti stampati, social, packaging o altre applicazioni pertinenti.
+Brand in use: sintesi finale; risultati concreti solo se disponibili.
+See also: collegamento all'altro progetto Branding.
+
+I contenuti sono segnaposto, non descrizioni di progetti realmente svolti.
+Le copertine usano temporaneamente la tua grafica di categoria.
+
+COME COMPILARE
+1. Apri l'HTML del progetto e cambia title, h1 e i paragrafi.
+2. Cambia i valori 'To be added' nei dd.
+3. Metti le immagini in assets (esempio assets/branding-01/logo.png).
+4. Per ogni figura, inserisci il percorso in data-image="", aggiorna data-alt e figcaption.
+   Esempio: data-image="assets/branding-01/logo.png"
+5. Per la copertina, sostituisci assets/Branding.png.png e togli la didascalia provvisoria.
+6. Aggiorna titolo e copertina anche in branding.html e nella scheda See also dell'altro progetto.
+
+Le immagini interne vengono mostrate intere. Per aggiungerne altre duplica un figure completo.
+Puoi eliminare le figure o le sezioni che non servono.
+
+COLORE DEL PROGETTO
+Nella riga body cambia solo il valore:
+style="--project-accent: #FF4057;"
+Il colore si applica ai titoli e ai dati del singolo progetto.
+
+ANTEPRIME NELL'ELENCO
+In branding.html, data-image è la copertina.
+In data-preview-images inserisci foto separate da virgole:
+data-preview-images="assets/branding-01/01.jpg, assets/branding-01/02.jpg"
+Usa i tuoi nomi esatti. Lo zoom e lo slider sono quelli già presenti nel sito.
+
+LINGUE
+Le etichette e i testi provvisori funzionano in IT/EN.
+Quando sostituisci i testi, aggiorna le relative voci in branding-translations.js:
+la chiave deve coincidere con il testo HTML e i valori en/it contengono le due versioni.
+Puoi completare le traduzioni dei testi definitivi alla fine.
+
+APERTURA
+Estrai tutto lo ZIP in una nuova cartella. Apri index.html da quella cartella e scegli Branding.
+Le altre sezioni e tutti gli asset originali sono stati conservati senza modifiche.

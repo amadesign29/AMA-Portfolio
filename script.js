@@ -14,6 +14,9 @@ if (year) year.textContent = new Date().getFullYear();
 // This also works by opening index.html directly, without a server.
 function loadImage(path, container, alt) {
   if (!path || !container) return;
+  // Keep existing lazy-loaded media; do not start a duplicate eager request.
+  const existing = container.querySelector(':scope > img');
+  if (existing && existing.getAttribute('src') === path) return;
 
   const image = new Image();
   image.decoding = 'async';
